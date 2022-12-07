@@ -1,2 +1,8 @@
-# Word-Similarity-Visualization-REST-API
-An Web Application and A REST API built using Flask,Chart.JS &amp; NLTK.We can see similar words in a bargrah format and use the REST API as well
+
+• Flask Web Application for finding out similar words of a given word.
+
+• It Provides an bargraph with words and similarity scores for further clarification.
+
+• It comes with a REST API.
+
+
